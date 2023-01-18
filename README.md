@@ -1,4 +1,5 @@
-# shayna
+# Shayna Store
+## Projek Full Stack Website Developer: PHP Laravel Dan Vue JS from BuildWith Angga
 
 ## Project setup
 ```
